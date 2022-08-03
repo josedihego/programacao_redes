@@ -1,0 +1,4 @@
+maria/geladeira/25-05-2020/1200.55
+maria/lustre/20-05-2020/400.98
+maria/escrivaninha/15-05-2020/250.43
+maria/lavadora/14-05-2020/2000.10

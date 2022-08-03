@@ -1,0 +1,9 @@
+maria/geladeira/25-05-2020/1200.55
+maria/lustre/20-05-2020/400.98
+maria/escrivaninha/15-05-2020/250.43
+maria/lavadora/14-05-2020/2000.10
+joao/frizer/25-05-2020/1300.55
+joao/cama/20-05-2020/500.98
+joao/sofa/15-05-2020/900.43
+joao/mesa/14-05-2020/800.10
+TOTAL 7354.12
