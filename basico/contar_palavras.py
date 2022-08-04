@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 
-palavra = raw_input('Informa uma palavra')
-frase = raw_input('Informe uma frase')
+palavra = input('Informa uma palavra')
+frase = input('Informe uma frase')
 
 # frase: ANA E MARIANA GOSTAM DE BANANA
 # palavra: ANA
@@ -21,5 +21,5 @@ for pf in range(0,tamFrase):
     else:
         pp=0
 
-print 'A palavra ', palavra, ' aparece ', ocorrencia, ' vezes na \n'
-print frase
+print('A palavra ', palavra, ' aparece ', ocorrencia, ' vezes na \n')
+print(frase)

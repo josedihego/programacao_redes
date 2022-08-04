@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 
 
-
-print 'Esolha uma das quatro opçoes abaixo'
-print '1. bin -> dec'
+print('Esolha uma das quatro opçoes abaixo')
+print('1. bin -> dec'
 print '2. oct -> dec'
 print('3. hex -> dec')
 print '4. sair'
@@ -12,7 +11,7 @@ selecao = input()
 
 print 'Informe o valor a ser convertido:'
 
-valor = raw_input()
+valor = input()
 
 def mapLetraNumero(c):
     if c=='A': return 10

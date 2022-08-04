@@ -10,4 +10,4 @@ for i in listaPosicoes:
 
 media = soma/ len(listaPosicoes)
 
-print media
+print(media)
