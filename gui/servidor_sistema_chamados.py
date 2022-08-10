@@ -2,7 +2,6 @@
 
 # Equipe: Maria e José
 
-
 import socket
 
 meuSocket = socket.socket()
